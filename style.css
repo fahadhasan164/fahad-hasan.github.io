@@ -1,0 +1,66 @@
+*{
+   
+}
+h2{
+    font-family: 'Acme', sans-serif;
+}
+h6{
+    font-family: 'Acme', sans-serif;
+}
+
+.container-fluid{ 
+    background: linear-gradient(to right top, #007c65, #057b8d);
+    height: 100vh;
+}
+.glass{ 
+    background-color: rgba(255, 255, 255, 0.582);
+    height: 100vh;
+    border-radius: 30px;
+ 
+}
+
+.card{
+    background-color: white;
+    border-radius: 20px; 
+}
+.card-2{
+    background-color: white;
+    border-radius: 20px;
+     
+}
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+  ul li{
+      margin: 2px;
+      background-color: white;
+      border-radius: 5px;
+  }
+
+  .navbar{
+      margin-top: -5px;
+  }
+
+  .profile-pic{
+      height: 120px;
+      width: 120px;
+      border-radius: 20px;
+  }
+
+  .edu-icon{ 
+      background-color: white;
+      border-radius: 5px; 
+  }
+  .edu-details{
+      background-color: white;
+      border-radius: 5px;
+      
+  }
+
+  .carousel-item
+  {
+      max-height: 80vh; 
+  }
