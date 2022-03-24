@@ -7,15 +7,17 @@ h2{
 h6{
     font-family: 'Acme', sans-serif;
 }
+h3{
+    font-family: 'Roboto Slab', serif;
+}
 
 .container-fluid{ 
     background: linear-gradient(to right top, #007c65, #057b8d);
-    height: 100vh;
 }
 .glass{ 
     background-color: rgba(255, 255, 255, 0.582);
-    height: 100vh;
-    border-radius: 30px;
+
+    border-radius: 15px;
  
 }
 
@@ -25,7 +27,8 @@ h6{
 }
 .card-2{
     background-color: white;
-    border-radius: 20px;
+    border-radius: 5px;
+    height: 30px;
      
 }
 
@@ -64,3 +67,18 @@ h6{
   {
       max-height: 80vh; 
   }
+
+
+  .publication-url{
+       
+  }
+
+  .publication-italic{
+      font-style: italic;
+  }
+
+  #footer{
+      border-radius: 15px;
+  }
+
+ 
