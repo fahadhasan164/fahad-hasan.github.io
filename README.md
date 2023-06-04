@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-fahad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-fahad" alt="hasan-fahad" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-fahad" alt="hasan-fahad" /></a> </p> -->
 
 - 🔭 I’m currently working on **Binate Solutions Ltd. as a System Support Engineer**
 
